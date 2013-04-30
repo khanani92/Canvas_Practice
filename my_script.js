@@ -15,4 +15,21 @@ $(function(){
         );
 
     });//.bind
+
+    //Playing with Canvas
+
+    var canvas= document.getElementById("canvas").getContext("2d");
+
+    canvas.fillRect(10,10,50,50);
+
+    var offset = 10;
+    var size = 50;
+    var count= 5;
+
+    for(var i= 0;i<count;i++){
+        canvas.fillRect(i*(offset+size)+offset,offset,size,size);
+        canvas.strokeRect(i*(offset+size)+offset,(2*offset)+size,size,size);
+    }
+
+
 });
