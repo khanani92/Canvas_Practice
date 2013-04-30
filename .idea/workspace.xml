@@ -5,8 +5,8 @@
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367292949953" ignored="false" />
-    <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367294905781" ignored="false" />
-    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367293298500" ignored="false" />
+    <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367295924250" ignored="false" />
+    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367295982203" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="35" selection-start="131" selection-end="131" vertical-scroll-proportion="-3.9230769">
+            <state line="8" column="40" selection-start="170" selection-end="188" vertical-scroll-proportion="0.17258883">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="my_script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="15" selection-start="241" selection-end="241" vertical-scroll-proportion="0.18796068">
+            <state line="8" column="24" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -199,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1260" height="984" extended-state="1" />
+    <frame x="10" y="10" width="1260" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -330,16 +330,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="131" selection-end="131" vertical-scroll-proportion="-3.9230769">
+        <state line="8" column="24" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="241" selection-end="241" vertical-scroll-proportion="0.18796068">
+        <state line="8" column="40" selection-start="170" selection-end="188" vertical-scroll-proportion="0.17258883">
           <folding />
         </state>
       </provider>
