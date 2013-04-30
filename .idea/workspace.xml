@@ -4,9 +4,9 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367263501968" ignored="false" />
-    <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367260057937" ignored="false" />
-    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367260683406" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367292949953" ignored="false" />
+    <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367294905781" ignored="false" />
+    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367293298500" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="-5.230769">
+            <state line="6" column="35" selection-start="131" selection-end="131" vertical-scroll-proportion="-3.9230769">
               <folding />
             </state>
           </provider>
@@ -38,7 +38,16 @@
       <file leaf-file-name="my_script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.083538085">
+            <state line="9" column="15" selection-start="241" selection-end="241" vertical-scroll-proportion="0.18796068">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.easing.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,6 +108,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -133,21 +143,21 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="E:/Program Files/Git/Git Bash.vbs" />
+    <property name="last_opened_file_path" value="E:/Program Files/Git/ssl/openssl.cnf" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program Files\Animation" />
       <recent name="F:\Program Files\Animation\img" />
     </key>
   </component>
@@ -189,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1260" height="984" extended-state="0" />
+    <frame x="10" y="10" width="1260" height="984" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -287,6 +297,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="23" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -299,16 +323,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="-5.230769">
+        <state line="6" column="35" selection-start="131" selection-end="131" vertical-scroll-proportion="-3.9230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.083538085">
+        <state line="9" column="15" selection-start="241" selection-end="241" vertical-scroll-proportion="0.18796068">
           <folding />
         </state>
       </provider>
