@@ -31,5 +31,14 @@ $(function(){
         canvas.strokeRect(i*(offset+size)+offset,(2*offset)+size,size,size);
     }
 
+    for (var j=0;j<count;j++){
+        canvas.fillRect(j*(offset+size)+offset,(4*offset)+(2*size),size,size);
+        canvas.strokeRect(j*(offset+size)+offset,(5*offset)+(3*size),size,size);
+        canvas.clearRect(j*(offset+size)+offset,(4*offset)+(2*size)+5,size,size-10);
+
+        canvas.fillRect(j*(offset+size)+offset,(6*offset)+(4*size),size,size);
+        canvas.clearRect(j*(offset+size)+offset+5,(6*offset)+(4*size)+5,size-20,size-10);
+    }
+
 
 });
