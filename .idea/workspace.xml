@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367388745296" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
-    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367478921250" ignored="false" />
+    <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="my_script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="25" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.958231">
+            <state line="65" column="43" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.85380834">
               <folding />
             </state>
           </provider>
@@ -373,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="25" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.958231">
+        <state line="65" column="43" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.85380834">
           <folding />
         </state>
       </provider>

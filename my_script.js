@@ -56,4 +56,19 @@ $(function(){
     canvas.lineJoin= "miter";
     canvas.strokeRect(300,400,100,100);
 
+    var fillColor=["black","grey","lightgrey","red","blue"];
+    var strokeColors = ["rgb(0,0,0)", "rgb(100,100,100)", "rgb(200,200,200)", "rgb(250,0,0)", "rgb(0,0,255)"];
+    canvas.lineWidth=3;
+
+    for (var k=0;k<count;k++){
+
+        canvas.fillStyle = fillColor[k];
+        canvas.strokeStyle = strokeColors[k];
+        //alert(canvas.fillStyle + fillColor[i]);
+        canvas.fillRect(k*(offset+size)+offset,(13*offset)+(8*size),size,size);
+        canvas.strokeRect(k*(offset+size)+offset,(10*offset)+(10*size),size,size);
+
+    }
+
+
 });
