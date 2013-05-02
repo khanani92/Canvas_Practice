@@ -40,5 +40,20 @@ $(function(){
         canvas.clearRect(j*(offset+size)+offset+5,(6*offset)+(4*size)+5,size-20,size-10);
     }
 
+    canvas.lineWidth = 2;
+    canvas.strokeRect(10,320,50,50);
+    canvas.lineWidth = 4;
+    canvas.strokeRect(70,320,50,50);
+    canvas.lineWidth = 6;
+    canvas.strokeRect(130,320,50,50);
+    canvas.strokeRect(190,320,50,50);
+
+    canvas.lineWidth=20;
+    canvas.lineJoin= "round";
+    canvas.strokeRect(20,400,100,100);
+    canvas.lineJoin= "bevel";
+    canvas.strokeRect(160,400,100,100);
+    canvas.lineJoin= "miter";
+    canvas.strokeRect(300,400,100,100);
 
 });
