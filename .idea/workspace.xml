@@ -4,7 +4,7 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367561409500" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367684570031" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
     <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
@@ -14,7 +14,7 @@
     <file path="/pattern.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367506105140" ignored="false" />
     <file path="/pattern_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367506156328" ignored="false" />
     <file path="/Drawingstate.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367508518015" ignored="false" />
-    <file path="/Drawingstate_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367508553765" ignored="false" />
+    <file path="/Drawingstate_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367686179328" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="Drawingstate.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Drawingstate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="44" selection-start="436" selection-end="436" vertical-scroll-proportion="-10.461538">
+            <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
       <file leaf-file-name="Drawingstate_script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Drawingstate_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18796068">
+            <state line="26" column="9" selection-start="602" selection-end="602" vertical-scroll-proportion="0.54299754">
               <folding />
             </state>
           </provider>
@@ -93,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="10" />
+    <option name="x" value="-122" />
+    <option name="y" value="-14" />
     <option name="width" value="1260" />
     <option name="height" value="984" />
   </component>
@@ -168,8 +168,8 @@
     <property name="last_opened_file_path" value="E:/Program Files/Git/ssl/openssl.cnf" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -242,7 +242,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1260" height="984" extended-state="0" />
+    <frame x="-122" y="-14" width="1260" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -410,14 +410,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Drawingstate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="436" selection-end="436" vertical-scroll-proportion="-10.461538">
+        <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Drawingstate_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18796068">
+        <state line="26" column="9" selection-start="602" selection-end="602" vertical-scroll-proportion="0.54299754">
           <folding />
         </state>
       </provider>
