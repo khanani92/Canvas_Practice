@@ -22,8 +22,8 @@ $(function(){
    // image.onload = drawPattern;
 
     function drawImage(){
-    //canvas.drawImage(image,10,10)
-    //canvas.drawImage(image,120,10,150,120)
+    canvas.drawImage(image,10,10)
+    canvas.drawImage(image,120,10,150,120)
        // canvas.drawImage(image, 20, 20, 100, 50, 250, 10, 100, 120);
        // canvas.drawImage(image,300,20,100,250,150,30,100,120);
     }
