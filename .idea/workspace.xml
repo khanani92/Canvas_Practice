@@ -15,6 +15,7 @@
     <file path="/pattern_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367506156328" ignored="false" />
     <file path="/Drawingstate.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367508518015" ignored="false" />
     <file path="/Drawingstate_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367737438703" ignored="false" />
+    <file path="/vid_test.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367740270515" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Drawingstate_script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Drawingstate_script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Drawingstate_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.6579276">
+            <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vid_test.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vid_test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="21" selection-start="136" selection-end="136" vertical-scroll-proportion="0.15101522">
               <folding />
             </state>
           </provider>
@@ -89,6 +99,7 @@
         <option value="$PROJECT_DIR$/pattern_script.js" />
         <option value="$PROJECT_DIR$/Drawingstate.html" />
         <option value="$PROJECT_DIR$/Drawingstate_script.js" />
+        <option value="$PROJECT_DIR$/vid_test.html" />
       </list>
     </option>
   </component>
@@ -241,7 +252,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="0" width="1260" height="984" extended-state="0" />
+    <frame x="11" y="0" width="1260" height="984" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -323,13 +334,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my_script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="43" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -416,7 +420,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Drawingstate_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.6579276">
+        <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vid_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="136" selection-end="136" vertical-scroll-proportion="0.15101522">
           <folding />
         </state>
       </provider>
