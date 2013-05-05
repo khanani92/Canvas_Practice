@@ -8,24 +8,27 @@
 $(function(){
 
 
-    var canvas = document.getElementById("canvas").getContext("2d");
+    //var canvas = document.getElementById("canvas").getContext("2d");
+    var canvas = document.getElementById('canvas');
+    var context = canvas.getContext('2d');
     var image = new Image();
-    image.src = "img/pattern.png";
+    image.src = "img/banana.png";
 
     function drawPattern() {
 
-        canvas.fillStyle = canvas.createPattern(image, "repeat");
-        canvas.fillRect(0, 0, 300, 300);
+        context.fillStyle = canvas.createPattern(image, "repeat");
+        context.fillRect(0, 0, 300, 300);
     }
 
 
    // image.onload = drawPattern;
 
     function drawImage(){
-    canvas.drawImage(image,10,10)
-    canvas.drawImage(image,120,10,150,120)
-       // canvas.drawImage(image, 20, 20, 100, 50, 250, 10, 100, 120);
-       // canvas.drawImage(image,300,20,100,250,150,30,100,120);
+    context.drawImage(image,10,10)
+    context.drawImage(image,120,10,100,120)
+    //(dir,offest into source imgae X, Y,Width of the offest region of source X, Y,Position of the image drawn X,Y,Size of the image drawn W,H)
+    context.drawImage(image,125,115,80,50,350,200,200,120);
+      //  context.drawImage(image,20,20,100,50,250,10,100,120);
     }
 
     image.onload = drawImage;
