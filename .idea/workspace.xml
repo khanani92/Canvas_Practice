@@ -4,7 +4,7 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368017670890" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368032758937" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
     <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
@@ -16,8 +16,8 @@
     <file path="/Drawingstate.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367508518015" ignored="false" />
     <file path="/Drawingstate_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367737438703" ignored="false" />
     <file path="/vid_test.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367999879093" ignored="false" />
-    <file path="/video_img.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368019128359" ignored="false" />
-    <file path="/vid_img_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368019103718" ignored="false" />
+    <file path="/video_img.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368024668375" ignored="false" />
+    <file path="/vid_img_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368033682109" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,19 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="video_img.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="video_img.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video_img.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="15" selection-start="268" selection-end="268" vertical-scroll-proportion="0.27419356">
+            <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="-13.730769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vid_img_script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="vid_img_script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vid_img_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="51" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+            <state line="29" column="10" selection-start="877" selection-end="877" vertical-scroll-proportion="0.60714287">
               <folding />
             </state>
           </provider>
@@ -84,16 +84,15 @@
         <option value="$PROJECT_DIR$/Drawingstate_script.js" />
         <option value="$PROJECT_DIR$/vid_test.html" />
         <option value="$PROJECT_DIR$/Drawingstate.html" />
-        <option value="$PROJECT_DIR$/vid_img_script.js" />
         <option value="$PROJECT_DIR$/video_img.html" />
+        <option value="$PROJECT_DIR$/vid_img_script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1288" />
-    <option name="height" value="1004" />
+    <option name="x" value="11" />
+    <option name="width" value="1260" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -165,8 +164,8 @@
     <property name="last_opened_file_path" value="E:/Program Files/Git/ssl/openssl.cnf" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -239,13 +238,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="1004" extended-state="6" />
+    <frame x="11" y="0" width="1260" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2442323" sideWeight="0.6702381" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979658" sideWeight="0.6702381" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -328,9 +327,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="24" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
@@ -340,23 +337,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="3" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
@@ -386,35 +377,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="67" selection-start="432" selection-end="496" vertical-scroll-proportion="0.40865386">
-          <folding />
-        </state>
+        <state line="20" column="67" selection-start="432" selection-end="496" vertical-scroll-proportion="0.40865386" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Drawingstate_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.64346766">
-          <folding />
-        </state>
+        <state line="31" column="2" selection-start="959" selection-end="959" vertical-scroll-proportion="0.64346766" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vid_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="103" selection-end="103" vertical-scroll-proportion="0.12655087">
-          <folding />
-        </state>
+        <state line="6" column="30" selection-start="103" selection-end="103" vertical-scroll-proportion="0.12655087" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vid_img_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+        <state line="29" column="10" selection-start="877" selection-end="877" vertical-scroll-proportion="0.60714287">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video_img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="15" selection-start="268" selection-end="268" vertical-scroll-proportion="0.27419356">
+        <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="-13.730769">
           <folding />
         </state>
       </provider>
