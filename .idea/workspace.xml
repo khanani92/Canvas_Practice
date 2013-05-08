@@ -4,7 +4,7 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367734651234" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367997840953" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
     <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/pattern_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367506156328" ignored="false" />
     <file path="/Drawingstate.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367508518015" ignored="false" />
     <file path="/Drawingstate_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367737438703" ignored="false" />
-    <file path="/vid_test.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367740270515" ignored="false" />
+    <file path="/vid_test.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367999879093" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <file leaf-file-name="Drawingstate.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Drawingstate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
+            <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
       <file leaf-file-name="vid_test.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vid_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="21" selection-start="136" selection-end="136" vertical-scroll-proportion="0.15101522">
+            <state line="6" column="30" selection-start="103" selection-end="103" vertical-scroll-proportion="0.129771">
               <folding />
             </state>
           </provider>
@@ -178,8 +178,8 @@
     <property name="last_opened_file_path" value="E:/Program Files/Git/ssl/openssl.cnf" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -261,9 +261,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979658" sideWeight="0.6702381" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -413,7 +413,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Drawingstate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
+        <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -427,7 +427,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vid_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="21" selection-start="136" selection-end="136" vertical-scroll-proportion="0.15101522">
+        <state line="6" column="30" selection-start="103" selection-end="103" vertical-scroll-proportion="0.129771">
           <folding />
         </state>
       </provider>
