@@ -4,7 +4,7 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368266504015" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368294044687" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
     <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
@@ -19,7 +19,7 @@
     <file path="/video_img.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368024668375" ignored="false" />
     <file path="/vid_img_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368033682109" ignored="false" />
     <file path="/path.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368267028906" ignored="false" />
-    <file path="/path_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368268428328" ignored="false" />
+    <file path="/path_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368299289062" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <file leaf-file-name="path.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="-4.576923">
+            <state line="2" column="109" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="path_script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/path_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="5" selection-start="696" selection-end="719" vertical-scroll-proportion="0.46059114">
+            <state line="69" column="18" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.66502464">
               <folding>
                 <element signature="e#0#156#0" expanded="false" />
               </folding>
@@ -393,21 +393,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/video_img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="0.45419848">
-          <folding />
-        </state>
+        <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="0.45419848" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/path.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="-4.576923">
+        <state line="2" column="109" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.3076923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/path_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="696" selection-end="719" vertical-scroll-proportion="0.46059114">
+        <state line="69" column="18" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.66502464">
           <folding>
             <element signature="e#0#156#0" expanded="false" />
           </folding>

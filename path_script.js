@@ -59,4 +59,30 @@
      context.stroke();
 
 
+     context.strokeStyle="red";
+     context.lineWidth=2;
+     context.beginPath();
+     context.moveTo(0,280);
+     context.lineTo(450,280);
+     context.stroke();
+
+     context.strokeStyle="black";
+     context.lineWidth=40;
+
+     var xpos = 60;
+     var style = ["butt","round","square"];
+     for(var i=0; i<style.length;i++){
+         context.beginPath();
+         context.lineCap = style[i];
+         alert(style[i]);
+         context.moveTo(xpos,280);
+         context.lineTo(xpos,340);
+         context.stroke();
+         xpos+=70;
+
+
+     }
+
+
+
  });
