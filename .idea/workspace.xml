@@ -4,7 +4,7 @@
     <list default="true" id="aef45030-d6e2-4223-b7c3-d3b8711a5824" name="Default" comment="" />
     <ignored path="Animation.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368032758937" ignored="false" />
+    <file path="/Dummy.txt" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368266504015" ignored="false" />
     <file path="/index.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367346311312" ignored="false" />
     <file path="/my_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367481010031" ignored="false" />
     <file path="/pg1.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367477509140" ignored="false" />
@@ -18,6 +18,8 @@
     <file path="/vid_test.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1367999879093" ignored="false" />
     <file path="/video_img.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368024668375" ignored="false" />
     <file path="/vid_img_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368033682109" ignored="false" />
+    <file path="/path.html" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368267028906" ignored="false" />
+    <file path="/path_script.js" changelist="aef45030-d6e2-4223-b7c3-d3b8711a5824" time="1368268428328" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +39,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="video_img.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_img.html">
+      <file leaf-file-name="path.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/path.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="-13.730769">
+            <state line="7" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vid_img_script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vid_img_script.js">
+      <file leaf-file-name="path_script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/path_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="10" selection-start="877" selection-end="877" vertical-scroll-proportion="0.60714287">
-              <folding />
+            <state line="28" column="5" selection-start="696" selection-end="719" vertical-scroll-proportion="0.46059114">
+              <folding>
+                <element signature="e#0#156#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,6 +90,8 @@
         <option value="$PROJECT_DIR$/Drawingstate.html" />
         <option value="$PROJECT_DIR$/video_img.html" />
         <option value="$PROJECT_DIR$/vid_img_script.js" />
+        <option value="$PROJECT_DIR$/path.html" />
+        <option value="$PROJECT_DIR$/path_script.js" />
       </list>
     </option>
   </component>
@@ -327,16 +333,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.easing.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_script.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="27" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
@@ -392,15 +388,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vid_img_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="10" selection-start="877" selection-end="877" vertical-scroll-proportion="0.60714287">
-          <folding />
-        </state>
+        <state line="29" column="10" selection-start="877" selection-end="877" vertical-scroll-proportion="0.60714287" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video_img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="-13.730769">
+        <state line="21" column="92" selection-start="548" selection-end="548" vertical-scroll-proportion="0.45419848">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="5" selection-start="696" selection-end="719" vertical-scroll-proportion="0.46059114">
+          <folding>
+            <element signature="e#0#156#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
