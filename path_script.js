@@ -28,6 +28,35 @@
      context.fill();
      context.stroke();
 
+     context.beginPath();
+     context.moveTo(250,10);
+     context.lineTo(250,120);
+     context.stroke();
+
+
+     context.beginPath();
+     context.moveTo(60,150);
+     context.lineTo(90,180);
+     context.lineTo(60,210);
+     context.lineTo(30,180);
+     context.lineTo(60,151);
+     context.fill();
+     context.stroke();
+
+     context.beginPath();
+     context.moveTo(170,140);
+     context.lineTo(190,180);
+     context.lineTo(220,180);
+     context.lineTo(190,200);
+     context.lineTo(200,235);
+     context.lineTo(170,200);
+     context.lineTo(148,235);
+     context.lineTo(145,200);
+     context.lineTo(115,180);
+     context.lineTo(150,180);
+     context.lineTo(170,140);
+     context.fill();
+     context.stroke();
 
 
  });
