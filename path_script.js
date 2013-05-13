@@ -82,6 +82,20 @@
 
 
      }
+    context.closePath();
+
+     context.fillStyle= "yellow";
+     context.strokeStyle = "black";
+     context.lineWidth= 4;
+     context.beginPath();
+     context.moveTo(130,400) ;
+     context.lineTo(130,490) ;
+     context.lineTo(30,400) ;
+     context.closePath();
+     context.rect(130,400,100,90);
+     context.rect(130,490,130,30);
+     context.stroke();
+
 
 
 
